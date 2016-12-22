@@ -1,0 +1,13 @@
+<!--index.wxml-->
+  <view class="article">
+    <image style="height: 200px; background-color: #eeeeee;" mode="{{mode}}}" src="{{src}}"></image>
+    <view class="title">这是文章标题</view>
+  </view>
+  <view class="article">
+    <image style="height: 200px; background-color: #eeeeee;" mode="{{mode}}}" src="{{src}}"></image>
+    <view class="title">这是文章标题</view>
+  </view>
+  <view class="article">
+    <image style="height: 200px; background-color: #eeeeee;" mode="{{mode}}}" src="{{src}}"></image>
+    <view class="title">这是文章标题</view>
+  </view>

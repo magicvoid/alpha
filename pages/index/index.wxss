@@ -1,0 +1,14 @@
+/**index.wxss**/
+.article{
+}
+.article image{
+	width: calc(100% - 16rpx);
+	margin: 0 8rpx 8rpx 8rpx;
+}
+.article .title{
+	position: absolute;
+	color:white;
+	text-align: center;
+	width: 100%;
+	margin-top: -100rpx;
+}

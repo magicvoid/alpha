@@ -1,0 +1,36 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/mall/index",
+    "pages/me/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "跟我耍",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "iconPath": "images/article.png",
+      "selectedIconPath": "images/article_actived.png",
+      "text": "攻略"
+    }, {
+      "pagePath": "pages/mall/index",
+      "iconPath": "images/mall.png",
+      "selectedIconPath": "images/mall_actived.png",
+      "text": "游玩"
+    }, {
+      "pagePath": "pages/me/index",
+      "iconPath": "images/me.png",
+      "selectedIconPath": "images/me_actived.png",
+      "text": "我"
+    }]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}

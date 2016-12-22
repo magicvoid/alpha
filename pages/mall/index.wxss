@@ -1,0 +1,6 @@
+/**index.wxss**/
+.head{
+	height: 200rpx;
+	width: 100%;
+	align-items: center;
+}
