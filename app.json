@@ -30,7 +30,7 @@
   },
   "networkTimeout": {
     "request": 10000,
-    "downloadFile": 20001
+    "downloadFile": 20000
   },
   "debug": true
 }
