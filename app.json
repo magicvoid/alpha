@@ -2,13 +2,14 @@
   "pages":[
     "pages/index/index",
     "pages/mall/index",
-    "pages/me/index"
+    "pages/me/index",
+    "pages/scenic/scenic"
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#000",
     "navigationBarTitleText": "跟我耍",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle":"white"
   },
   "tabBar": {
     "list": [{
@@ -30,7 +31,7 @@
   },
   "networkTimeout": {
     "request": 10000,
-    "downloadFile": 20000
+    "downloadFile": 10000
   },
   "debug": true
 }

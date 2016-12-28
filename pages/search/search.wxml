@@ -1,0 +1,12 @@
+<template name="search">
+  <view class="search">
+    <view class="picker" bindtap="area">成都</view>
+
+    <view class="search-box">
+       <view class="search-img">
+          <image  src="" ></image>
+       </view>
+       <input class="search-input" placeholder="目的地/景点/门票/农庄/特产"/>
+    </view>
+  </view>
+</template>

@@ -1,0 +1,23 @@
+{
+	"caiItems":[{
+         "title": "这是一个标题",
+         "src": "/images/article_sample.jpg",
+         "play": "旅游攻略",
+         "likebtn": "/images/article_sample.jpg"
+	},{
+		"title": "这是一个标题",
+         "src": "/images/article_sample.jpg",
+         "play": "旅游攻略",
+         "likebtn": "/images/article_sample.jpg"
+     },{
+		"title": "这是一个标题",
+         "src": "/images/article_sample.jpg",
+         "play": "旅游攻略",
+         "likebtn": "/images/article_sample.jpg"
+     },{
+		"title": "这是一个标题",
+         "src": "/images/article_sample.jpg",
+         "play": "旅游攻略",
+         "likebtn": "/images/article_sample.jpg"
+     }] 
+}

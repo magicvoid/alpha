@@ -1,14 +1,51 @@
 /**index.wxss**/
+scroll-view{
+	height: 1000px;
+}
 .article{
+	margin-top: 4px;
+}
+.title{
+	width: 100%;
+	text-indent: 4px;
+	font-size: 14px;
+	width: 100%;
 }
 .article image{
 	width: calc(100% - 16rpx);
-	margin: 0 8rpx 8rpx 8rpx;
+	margin: 0 8rpx 4rpx 8rpx;
+	height: 180px; 
+	background-color: #eeeeee;
 }
-.article .title{
-	position: absolute;
-	color:white;
-	text-align: center;
+.title-type {
 	width: 100%;
-	margin-top: -100rpx;
+	height: 20px;
+	border: 1px solid black;
+	font-size:12px;
+}
+.play-type{
+	width: 50px;
+	height: 20px;
+	line-height: 20px;
+	margin: 0px 2px;
+	border: 1px solid black;
+	float: left;
+}
+.like-card{
+	width: 60px;
+	height: 20px;
+	float: right;
+}
+.like-card image{
+	margin-top: 2px;
+	width: 15px;
+	height: 15px;
+	border:1px solid black;
+	float: left;
+}
+.like-card text{
+	width: 30px;
+	height: 20px;
+	line-height: 20px;
+	float: left;
 }
